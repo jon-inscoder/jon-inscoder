@@ -1,4 +1,5 @@
 👋 Hi, I’m @jon-inscoder
+
 💻 I’m currently working as a Shopify Developer for Inscoder Limited.
 
 <!---
